@@ -1,3 +1,7 @@
+RNAfusion
++++++++++++++++++++++++++++++++
+
+Find RNAfusion use arriba、dragen、FusionCatcher、pizzly、STAR_fusion，combine use fusion_report.
 
 step1::
 
