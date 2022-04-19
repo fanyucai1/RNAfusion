@@ -1,0 +1,1 @@
+export PATH=/software//STAR-2.7.6a/bin/Linux_x86_64:/software/samtools-v1.11/bin:$PATH && /software/STAR-Fusion-v1.9.1/STAR-Fusion --left_fq ${1} --right_fq ${2} --genome_lib_dir /reference/STAR_fusion/GRCh38_gencode_v37_CTAT_lib_Mar012021.plug-n-play/ctat_genome_lib_build_dir/ --output_dir ${3} && chmod 777 -R ${3}
