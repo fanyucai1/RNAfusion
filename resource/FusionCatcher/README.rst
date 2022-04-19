@@ -16,3 +16,11 @@ Download Database ::
     ├── fusioncatcher-1.33
     ├── fusioncatcher-1.33.zip
     └── human_v102
+
+Web link:
+
+
+`https://bioinfo-dirty-jobs.github.io/master_course//lectures/03.fusioncather/ <https://bioinfo-dirty-jobs.github.io/master_course//lectures/03.fusioncather/>`_
+
+`https://github.com/ndaniel/fusioncatcher <https://github.com/ndaniel/fusioncatcher>`_
+
