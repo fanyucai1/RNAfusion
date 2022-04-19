@@ -27,3 +27,5 @@ web link
 
 `FusionCatcher <https://github.com/ndaniel/fusioncatcher>`_
 
+`fusion_report <https://github.com/matq007/fusion-report>`_
+
