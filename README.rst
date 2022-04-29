@@ -36,4 +36,4 @@ appendix
 
 panel RNA fusion
 
-`2021-SeekFusion A Clinically Validated Fusion Transcript Detection Pipeline for PCR-Based Next-Generation Sequencing of RNA.pdf <paper/2021-SeekFusion A Clinically Validated Fusion Transcript Detection Pipeline for PCR-Based Next-Generation Sequencing of RNA.pdf>`_
+`2021-SeekFusion A Clinically Validated Fusion Transcript Detection Pipeline for PCR-Based Next-Generation Sequencing of RNA.pdf <https://www.frontiersin.org/articles/10.3389/fgene.2021.739054/full>`_
