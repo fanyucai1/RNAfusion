@@ -29,3 +29,11 @@ web link
 
 `fusion_report <https://github.com/matq007/fusion-report>`_
 
+
+
+appendix
+================
+
+panel RNA fusion
+
+`2021-SeekFusion A Clinically Validated Fusion Transcript Detection Pipeline for PCR-Based Next-Generation Sequencing of RNA.pdf <paper/2021-SeekFusion A Clinically Validated Fusion Transcript Detection Pipeline for PCR-Based Next-Generation Sequencing of RNA.pdf>`_
